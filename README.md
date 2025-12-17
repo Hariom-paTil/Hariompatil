@@ -17,46 +17,78 @@ Institute of Management Research and Development, Shirpur
 
 <br/>
 
-## 🚀 About Me
+<!-- ABOUT ME -->
+<h2 align="center" style="color:#0A66C2;">🚀 About Me</h2>
 
-- 🎓 IMCA (Integrated MCA) 3rd Year Student  
-- 💻 Interested in Full-Stack Web Development  
-- 🛠️ Working with Angular, ASP.NET Core & Node.js  
-- 📚 Always learning and building real-world projects
+<p align="center" style="font-size:16px;">
+🎓 <b>IMCA (Integrated MCA) 3rd Year Student</b><br/>
+💻 Interested in <b>Full-Stack Web Development</b><br/>
+🛠️ Working with <b>Angular, ASP.NET Core & Node.js</b><br/>
+📚 Always learning and building <b>real-world projects</b>
+</p>
 
-- ## 🛠️ Skills
+<hr/>
 
-**Frontend**
-- Angular 17
-- HTML, CSS, Bootstrap
-- TypeScript
+<!-- SKILLS -->
+<h2 align="center" style="color:#0A66C2;">🛠️ Skills</h2>
 
-**Backend**
-- ASP.NET Core Web API
-- Node.js, Express.js
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+Angular 17 • HTML • CSS • Bootstrap • TypeScript
+</p>
 
-**Database**
-- MySQL
-- SQL Server
+<p align="center"><b>Backend</b></p>
+<p align="center">
+ASP.NET Core Web API • Node.js • Express.js
+</p>
 
-**Tools**
-- Git & GitHub
-- Postman
-- Visual Studio, VS Code
+<p align="center"><b>Database</b></p>
+<p align="center">
+MySQL • SQL Server
+</p>
 
-- ## 📂 Projects
+<p align="center"><b>Tools</b></p>
+<p align="center">
+Git & GitHub • Postman • Visual Studio • VS Code
+</p>
 
-### 🛒 eStore – Full Stack Web Application
-- Angular 17 frontend
-- Node.js backend
-- MySQL database
+<hr/>
 
-### 🎂 Cake Ordering Application
-- Angular frontend
-- ASP.NET Core Web API
-- MySQL database
+<!-- PROJECTS -->
+<h2 align="center" style="color:#0A66C2;">📂 Projects</h2>
 
-### 🔐 User Login & Authentication API
-- ASP.NET Core Web API
-- DTOs, Controllers, Entity Framework
+<p align="center">
+<b>🛒 eStore – Full Stack Web Application</b><br/>
+Angular 17 • Node.js • MySQL
+</p>
+
+<p align="center">
+<b>🎂 Cake Ordering Application</b><br/>
+Angular • ASP.NET Core Web API • MySQL
+</p>
+
+<p align="center">
+<b>🔐 User Login & Authentication API</b><br/>
+ASP.NET Core Web API • DTOs • Entity Framework
+</p>
+
+<hr/>
+
+<!-- LEARNING -->
+<h2 align="center" style="color:#0A66C2;">📚 Currently Learning</h2>
+
+<p align="center">
+Advanced C# • ASP.NET Core Web API • Angular Best Practices • Database Design
+</p>
+
+<hr/>
+
+<!-- CONTACT -->
+<h2 align="center" style="color:#0A66C2;">📫 Contact Me</h2>
+
+<p align="center">
+📧 <b>Email:</b> <a href="mailto:Hariom1Patil@gmail.com">Hariom1Patil@gmail.com</a><br/>
+💻 <b>GitHub:</b> <a href="https://github.com/hariompatil">github.com/hariompatil</a>
+</p>
+
 
