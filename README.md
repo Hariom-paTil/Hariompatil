@@ -39,7 +39,7 @@ Angular 17 • HTML • CSS • Bootstrap • TypeScript
 
 <p align="center"><b>Backend</b></p>
 <p align="center">
-ASP.NET Core Web API • Node.js • Express.js
+ASP.NET Core Web API • Entity Framework •  
 </p>
 
 <p align="center"><b>Database</b></p>
