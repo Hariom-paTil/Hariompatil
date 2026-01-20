@@ -39,7 +39,11 @@ Angular 17 • HTML • CSS • Bootstrap • TypeScript
 
 <p align="center"><b>Backend</b></p>
 <p align="center">
-ASP.NET Core Web API • Entity Framework •  
+ASP.NET Core Web API • Entity Framework Core •  
+CQRS & MediatR • AutoMapper •  
+Generic Repository Pattern •  
+SQL Server Management Studio (SSMS) •  
+Third-Party API Integration
 </p>
 
 <p align="center"><b>Database</b></p>
