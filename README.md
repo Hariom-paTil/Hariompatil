@@ -34,7 +34,7 @@ Institute of Management Research and Development, Shirpur
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-Angular 17 • HTML • CSS • Bootstrap • TypeScript
+Angular 17 • HTML • CSS • Basic-JavaScript • Basic-TypeScript
 </p>
 
 <p align="center"><b>Backend</b></p>
