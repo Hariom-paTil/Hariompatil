@@ -8,11 +8,11 @@
 <h1 align="center">Hi 👋, I'm Hariom Patil</h1>
 
 <h3 align="center">
-IMCA 3rd Year Student | Aspiring Full-Stack Developer
+IMCA Student | Full-Stack Developer
 </h3>
 
 <p align="center">
-Institute of Management Research and Development, Shirpur
+Building scalable web applications with modern .NET, Angular, and cloud-first practices
 </p>
 
 <br/>
@@ -21,10 +21,11 @@ Institute of Management Research and Development, Shirpur
 <h2 align="center" style="color:#0A66C2;">🚀 About Me</h2>
 
 <p align="center" style="font-size:16px;">
-🎓 <b>IMCA (Integrated MCA) 3rd Year Student</b><br/>
-💻 Interested in <b>Full-Stack Web Development</b><br/>
-🛠️ Working with <b>Angular, ASP.NET Core & Node.js</b><br/>
-📚 Always learning and building <b>real-world projects</b>
+🎓 <b>IMCA (Integrated MCA) student</b> at IMRD, Shirpur<br/>
+💼 Focused on <b>full-stack engineering</b> with clean architecture and API-first design<br/>
+🛠️ Experienced in building projects with <b>Angular, ASP.NET Core, Node.js, and SQL</b><br/>
+☁️ Expanding into <b>cloud development with Microsoft Azure</b><br/>
+📈 Committed to continuous learning and industry-ready software practices
 </p>
 
 <hr/>
@@ -32,28 +33,33 @@ Institute of Management Research and Development, Shirpur
 <!-- SKILLS -->
 <h2 align="center" style="color:#0A66C2;">🛠️ Skills</h2>
 
-<p align="center"><b>Frontend</b></p>
+<p align="center"><b>Frontend Development</b></p>
 <p align="center">
-Angular 17 • HTML • CSS • Basic-JavaScript • Basic-TypeScript
+Angular 17 • HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • Responsive UI Development
 </p>
 
-<p align="center"><b>Backend</b></p>
+<p align="center"><b>Backend Development</b></p>
 <p align="center">
 ASP.NET Core Web API • Entity Framework Core •  
 CQRS & MediatR • AutoMapper •  
 Generic Repository Pattern •  
-SQL Server Management Studio (SSMS) •  
-Third-Party API Integration
+JWT Authentication & Authorization •  
+Third-Party API Integration • Node.js (Express)
 </p>
 
-<p align="center"><b>Database</b></p>
+<p align="center"><b>Databases</b></p>
 <p align="center">
-MySQL • SQL Server
+MySQL • SQL Server • Database Design & Query Optimization (Fundamentals)
 </p>
 
-<p align="center"><b>Tools</b></p>
+<p align="center"><b>Cloud & DevOps</b></p>
 <p align="center">
-Git & GitHub • Postman • Visual Studio • VS Code
+Microsoft Azure (Fundamentals) • Azure App Service • Azure Storage • CI/CD Basics
+</p>
+
+<p align="center"><b>Tools & Workflow</b></p>
+<p align="center">
+Git & GitHub • Postman • Visual Studio • VS Code • Swagger/OpenAPI • SSMS
 </p>
 
 <hr/>
@@ -63,17 +69,32 @@ Git & GitHub • Postman • Visual Studio • VS Code
 
 <p align="center">
 <b>🛒 eStore – Full Stack Web Application</b><br/>
-Angular 17 • Node.js • MySQL
+Angular 17 • Node.js • MySQL • REST APIs
 </p>
 
 <p align="center">
 <b>🎂 Cake Ordering Application</b><br/>
-Angular • ASP.NET Core Web API • MySQL
+Angular • ASP.NET Core Web API • MySQL • Authentication
 </p>
 
 <p align="center">
 <b>🔐 User Login & Authentication API</b><br/>
-ASP.NET Core Web API • DTOs • Entity Framework
+ASP.NET Core Web API • JWT • DTOs • Entity Framework Core
+</p>
+
+<p align="center">
+<b>📦 Inventory Management API</b><br/>
+ASP.NET Core Web API • Clean Architecture • SQL Server
+</p>
+
+<p align="center">
+<b>🧾 Student Management System</b><br/>
+Angular • ASP.NET Core • SQL Server • CRUD + Role-Based Access
+</p>
+
+<p align="center">
+<b>☁️ Azure Deployment Practice Project</b><br/>
+Full-Stack App Deployment using Azure App Service • Basic CI/CD Pipeline
 </p>
 
 <hr/>
@@ -82,7 +103,7 @@ ASP.NET Core Web API • DTOs • Entity Framework
 <h2 align="center" style="color:#0A66C2;">📚 Currently Learning</h2>
 
 <p align="center">
-Advanced C# • ASP.NET Core Web API • Angular Best Practices • Database Design
+Advanced C# • ASP.NET Core Performance Optimization • Azure Services • System Design Fundamentals
 </p>
 
 <hr/>
@@ -94,5 +115,4 @@ Advanced C# • ASP.NET Core Web API • Angular Best Practices • Database Des
 📧 <b>Email:</b> <a href="mailto:Hariom1Patil@gmail.com">Hariom1Patil@gmail.com</a><br/>
 💻 <b>GitHub:</b> <a href="https://github.com/hariompatil">github.com/hariompatil</a>
 </p>
-
 
